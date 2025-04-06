@@ -1,2 +1,3 @@
 # my_project
-This is my first repository on github.
+This is my first Repository on Github.
+Author - Anant Mishra
